@@ -16,10 +16,10 @@ Install the npm package
 
 Then import the sass file in your project
 
-```sass
-  @import 'sassmate';
-  // or
-  @import 'sassmate/lib/sassmate';
+```scss
+@import 'sassmate';
+// or
+@import 'sassmate/lib/sassmate';
 ```
 
 ## Support
