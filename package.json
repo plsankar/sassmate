@@ -1,0 +1,32 @@
+{
+  "name": "sassmate",
+  "version": "1.0.1",
+  "description": "Sass Utilities and Helpers",
+  "main": "lib/sassmate.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "responsive",
+    "sass",
+    "rwd",
+    "mediaquery",
+    "query",
+    "queries",
+    "media"
+  ],
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "lib"
+  ],
+  "bugs": {
+    "url": "https://github.com/plsankar/sassmate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plsankar/sassmate.git"
+  }
+}
